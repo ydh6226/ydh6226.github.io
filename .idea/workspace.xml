@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="테마 적용">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-06-hi.md" afterDir="false" />
+    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="댓글 기능 추가">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <updated>1627389097884</updated>
       <workItem from="1627389100887" duration="1592000" />
       <workItem from="1628221477386" duration="1993000" />
-      <workItem from="1628251680276" duration="1793000" />
+      <workItem from="1628251680276" duration="2212000" />
     </task>
     <task id="LOCAL-00001" summary="테마 적용">
       <created>1627390552223</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627390552223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="댓글 기능 추가">
+      <created>1628254077384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628254077384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +83,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="테마 적용" />
-    <option name="LAST_COMMIT_MESSAGE" value="테마 적용" />
+    <MESSAGE value="댓글 기능 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="댓글 기능 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
