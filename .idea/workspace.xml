@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="리포지토리 설정">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-06-bye.md" afterDir="false" />
+    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="댓글 설정">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,7 @@
       <workItem from="1628254777570" duration="783000" />
       <workItem from="1628255851315" duration="2099000" />
       <workItem from="1628263295978" duration="44000" />
-      <workItem from="1628263344871" duration="1015000" />
+      <workItem from="1628263344871" duration="2071000" />
     </task>
     <task id="LOCAL-00001" summary="테마 적용">
       <created>1627390552223</created>
@@ -86,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628254316495</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="댓글 설정">
+      <created>1628264560917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628264560917</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +110,8 @@
     <MESSAGE value="테마 적용" />
     <MESSAGE value="댓글 기능 추가" />
     <MESSAGE value="리포지토리 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="리포지토리 설정" />
+    <MESSAGE value="댓글 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="댓글 설정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
