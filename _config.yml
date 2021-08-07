@@ -283,7 +283,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      read_time: false
+      comments: true
+      share: false
+      related: false
+
+      # custom
+      toc: true
+      toc_sticky: true
