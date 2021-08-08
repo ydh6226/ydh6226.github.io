@@ -8,5 +8,14 @@
 @import "minimal-mistakes"; // main partials
 
 #page-title {
-  font-size: xxx-large;
+  font-size: xx-large;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+hr {
+  margin-top: 5px;
+  border: solid 1px
 }
