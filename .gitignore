@@ -1,3 +1,5 @@
+.idea
+
 # Vim
 *~
 *.sw[p_]
@@ -11,8 +13,6 @@
 .bundle
 Gemfile.lock
 **/vendor/bundle
-
-.idea
 
 # Node.js and NPM
 node_modules
@@ -29,3 +29,4 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+/.idea/
