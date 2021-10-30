@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="스프링 MVC 구조 작성">
+    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="analytics provider 등록">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1630971744678" duration="1456000" />
       <workItem from="1631012459766" duration="8330000" />
       <workItem from="1631021308027" duration="85000" />
-      <workItem from="1635576453373" duration="319000" />
+      <workItem from="1635576453373" duration="1859000" />
     </task>
     <task id="LOCAL-00001" summary="테마 적용">
       <created>1627390552223</created>
@@ -143,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630933767147</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="GA 추가">
+      <created>1635576937838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635576937838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="analytics provider 등록">
+      <created>1635577052144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635577052144</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +183,9 @@
     <MESSAGE value="스프링 트랜잭셔널 멀티스레드" />
     <MESSAGE value="메인페이지 수정" />
     <MESSAGE value="스프링 MVC 요청흐름 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="스프링 MVC 요청흐름 작성" />
+    <MESSAGE value="GA 추가" />
+    <MESSAGE value="analytics provider 등록" />
+    <option name="LAST_COMMIT_MESSAGE" value="analytics provider 등록" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
