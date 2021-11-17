@@ -1,6 +1,6 @@
 ---
 title:  "스프링 @Transactional 멀티스레드 환경에서 사용하기"
-excerpt: "@Transactional 을 멀티스레드 환경에서 사용할 때 주의점과 스레드 안전한 방법을 알아보겠습니다."
+excerpt: "@Transactional 을 멀티스레드 환경에서 사용할 때 주의점과 스레드 안전한 방법 알아보기"
 
 categories:
   - Spring

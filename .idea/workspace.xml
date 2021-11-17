@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="구글 검색엔진 등록">
+    <list default="true" id="8676c0dc-54cf-4399-a673-9aafc7b0a40e" name="Changes" comment="파비콘 등록">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-11-04-nextstep.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a5acb8b-df20-4e7d-8957-663a409c904d" name="Default Changelist" comment="" />
+      <changelist id="8676c0dc-54cf-4399-a673-9aafc7b0a40e" name="Changes" comment="" />
       <created>1627389097884</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -77,6 +78,7 @@
       <workItem from="1631021308027" duration="85000" />
       <workItem from="1635576453373" duration="1859000" />
       <workItem from="1635996853534" duration="137000" />
+      <workItem from="1637157184165" duration="1171000" />
     </task>
     <task id="LOCAL-00001" summary="테마 적용">
       <created>1627390552223</created>
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635577052144</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="파비콘 등록">
+      <created>1635997531638</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1635997531638</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +188,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="spring-transaction" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -203,7 +212,8 @@
     <MESSAGE value="스프링 MVC 요청흐름 작성" />
     <MESSAGE value="GA 추가" />
     <MESSAGE value="analytics provider 등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="analytics provider 등록" />
+    <MESSAGE value="파비콘 등록" />
+    <option name="LAST_COMMIT_MESSAGE" value="파비콘 등록" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
