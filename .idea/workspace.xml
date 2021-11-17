@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8676c0dc-54cf-4399-a673-9aafc7b0a40e" name="Changes" comment="파비콘 등록">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-11-04-nextstep.md" afterDir="false" />
+    <list default="true" id="8676c0dc-54cf-4399-a673-9aafc7b0a40e" name="Changes" comment="tdd 2주차 라이브 세션">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-11-04-Spring-REST-API-404-response-custom.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +79,8 @@
       <workItem from="1635576453373" duration="1859000" />
       <workItem from="1635996853534" duration="137000" />
       <workItem from="1637157184165" duration="1171000" />
+      <workItem from="1637158360682" duration="437000" />
+      <workItem from="1637158800686" duration="221000" />
     </task>
     <task id="LOCAL-00001" summary="테마 적용">
       <created>1627390552223</created>
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635997531638</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="tdd 2주차 라이브 세션">
+      <created>1637158458614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637158458614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +222,8 @@
     <MESSAGE value="GA 추가" />
     <MESSAGE value="analytics provider 등록" />
     <MESSAGE value="파비콘 등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="파비콘 등록" />
+    <MESSAGE value="tdd 2주차 라이브 세션" />
+    <option name="LAST_COMMIT_MESSAGE" value="tdd 2주차 라이브 세션" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
