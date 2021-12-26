@@ -2,13 +2,15 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-#   - title: "Sample Posts"
-#     url: /year-archive/
-  - title: "Category"
+#  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+  - title: "카테고리"
     url: "/categories/"
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-#   - title: "Sitemap"
-#     url: /sitemap/
+  - title: "태그"
+    url: "/tags/"
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap/

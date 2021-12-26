@@ -3,9 +3,8 @@ title:  "스프링 @Transactional 멀티스레드 환경에서 사용하기"
 excerpt: "@Transactional 을 멀티스레드 환경에서 사용할 때 주의점과 스레드 안전한 방법 알아보기"
 
 categories:
-  - Spring
+  - spring
 tags:
-  - 스프링
   - 멀티스레드
   - DB lock
 last_modified_at: 2021-08-07T08:06:00-05:00

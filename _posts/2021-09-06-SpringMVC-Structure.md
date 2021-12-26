@@ -3,9 +3,8 @@ title:  "Spring MVC Structure"
 excerpt: "스프링 MVC 구조 탐구"
 
 categories:
-  - Spring
+  - spring
 tags:
-  - 스프링
   - mvc
 last_modified_at: 2021-09-06T08:06:00-05:00
 ---
